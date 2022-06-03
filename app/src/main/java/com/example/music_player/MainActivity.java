@@ -88,7 +88,7 @@ private void volume(){
              @Override
              public void onProgressChanged(SeekBar seekBar, int progress, boolean b) {
                  Log.i(TAG, "Position dans la morceau :" + Integer.toString(progress));
-                 
+
 
              }
 
